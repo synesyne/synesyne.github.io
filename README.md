@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm synesyne</h1>
+<h3 align="center">I'm young, scrappy and hungry </h3>
+
+
+## 💻 Current project
+- Machine Learning
+- Deep Learning
+
+## 📅 Hobbies
+- music
+- movie
 
 <!--
 **synesyne/synesyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
